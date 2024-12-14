@@ -8,7 +8,7 @@
   </information>
   <resources>
     <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
-    <jar href="javafx1.jar" size="3205115" download="eager" />
+    <jar href="javafx1.jar" size="2006313" download="eager" />
   </resources>
   <jfx:javafx-desc  width="800" height="600" main-class="javafx1.Projek"  name="javafx1" />
   <update check="always"/>
